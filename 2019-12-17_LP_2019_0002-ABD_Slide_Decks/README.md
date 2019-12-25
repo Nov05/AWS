@@ -1,4 +1,6 @@
 
+https://pages.awscloud.com/OTT-Learning-Path-Overview-on-Data-Lakes.html   
+
 ### Contents
 
 1. Unify Your Data Lake and Data Warehouse 46:22    
